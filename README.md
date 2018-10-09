@@ -73,3 +73,4 @@ appraisal install
 DB=postgresql bundle exec appraisal rake
 ```
 
+
